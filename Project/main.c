@@ -15,10 +15,10 @@ bool stationary = false;
 #define GREEN_LED2	10	// PortC Pin 10
 #define GREEN_LED3	6 	// PortC Pin 6
 #define GREEN_LED4	5 	// PortC Pin 5
-#define GREEN_LED5	8 //4 	// PortC Pin 4
+#define GREEN_LED5	13 //8 //4 	// PortC Pin 4
 #define GREEN_LED6	3 	// PortC Pin 3
 #define GREEN_LED7	0 	// PortC Pin 0
-#define GREEN_LED8	7 	// PortC Pin 7
+#define GREEN_LED8	9 //7 	// PortC Pin 7
 #define BACKWARDSL 0 // PortB Pin 1 Backwards Motor Right
 #define BACKWARDSR 1 // PortB Pin 0 Backwards Motor Left
 #define MASK(x) (1 << (x))
